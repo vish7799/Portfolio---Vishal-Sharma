@@ -10,7 +10,7 @@ const NAV_LINKS = [
   { name: 'Experience', href: '#experience' },
   { name: 'Achievements', href: '#achievements' },
   { name: 'Contact', href: '#contact' },
-  { name: 'Résumé', href: 'https://drive.google.com/file/d/1l_m1J9B-Gs9LkNs4tnZTSghh6ZFsxg3q/view?usp=drive_link', external: true }
+  { name: 'Résumé', href: 'https://drive.google.com/file/d/196cwBBH50CbtVyh3wtOYK_bRIdrR8UKT/view?usp=sharing', external: true }
 ];
 
 export default function Header() {
