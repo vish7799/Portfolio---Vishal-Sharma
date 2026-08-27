@@ -5,6 +5,29 @@ import { FaGithub } from 'react-icons/fa';
 
 const PROJECTS = [
   {
+  title: 'BRS Solution Enterprise – Business Services Website',
+  description:
+    'A modern and professional business website developed for BRS Solution Enterprise, showcasing the company’s services, expertise, business solutions, and contact information. The website features a clean, responsive interface designed to establish a strong online presence and make it easy for potential clients to explore services and get in touch.',
+  image: 'https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=800&q=80',
+  tech: ['React.js', 'Vite', 'Tailwind CSS', 'JavaScript'],
+  highlights: [
+    'Responsive Design',
+    'Professional Business UI'
+  ],
+  features: [
+    'Modern hero section introducing BRS Solution Enterprise',
+    'Business services and solutions showcase',
+    'Responsive design optimized for desktop, tablet, and mobile',
+    'Smooth scrolling navigation between sections',
+    'Professional company information and service presentation',
+    'Contact section for client inquiries',
+    'SEO-friendly website structure',
+    'Reusable React components for clean and maintainable code'
+  ],
+  github: 'https://github.com/vish7799/BRS-',
+  live: 'https://brsenterprise.in'
+},
+  {
   title: 'Brew Haven – Coffee Shop Landing Page',
   description: 'A modern and responsive coffee shop landing page showcasing handcrafted beverages, menu highlights, gallery, testimonials, and contact information.',
   image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80',

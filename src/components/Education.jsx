@@ -6,7 +6,7 @@ const EDUCATION = [
   {
     degree: 'Bachelor of Technology in Information Technology',
     institution: 'Arya College of Engineering, Jaipur',
-    score: 'CGPA: 7.50',
+    score: 'CGPA: 7.20',
     period: '2022 - 2026'
   },
   {
