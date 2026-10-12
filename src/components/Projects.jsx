@@ -5,6 +5,34 @@ import { FaGithub } from 'react-icons/fa';
 
 const PROJECTS = [
   {
+  title: 'EKTA ELECTRICAL WORKS – Industrial Corporate Website & CMS',
+  description: 'A professional multi-page corporate website for an electrical contracting company, featuring electrical services, project portfolios, industries served, company information, and a dedicated CMS admin dashboard for managing website content.',
+  image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1200&q=80',
+  tech: ['React.js', 'Vite', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB', 'Mongoose'],
+  highlights: [
+    'Full-Stack Web Development',
+    'Multi-Page Corporate Website',
+    'Custom CMS Admin Dashboard',
+    'RESTful API Integration',
+    'Production Deployment & SEO'
+  ],
+  features: [
+    'Multi-page corporate website for electrical engineering and infrastructure services',
+    'Dedicated admin dashboard for website content management',
+    'CMS publishing workflow for controlling public website updates',
+    'Dynamic services, projects, and industries sections',
+    'Company profile, safety, quality, and client information sections',
+    'Contact and quotation enquiry forms',
+    'MongoDB database integration with Mongoose',
+    'Backend API development using Node.js and Express.js',
+    'Responsive user interface with React.js and Tailwind CSS',
+    'SEO setup including sitemap.xml and robots.txt',
+    'Production deployment with custom domain configuration'
+  ],
+  github: 'https://github.com/vish7799/Ekta-Project-',
+  live: 'https://www.ektaelectricalworks.com/'
+},
+  {
   title: 'BRS Solution Enterprise – Business Services Website',
   description:
     'A modern and professional business website developed for BRS Solution Enterprise, showcasing the company’s services, expertise, business solutions, and contact information. The website features a clean, responsive interface designed to establish a strong online presence and make it easy for potential clients to explore services and get in touch.',
